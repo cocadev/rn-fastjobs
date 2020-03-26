@@ -32,6 +32,7 @@
     "react-native-modal-datetime-picker": "^6.1.0",
     "react-native-qrcode-svg": "^5.1.2",
     "react-native-router-flux": "^4.0.6",
+    "react-native-screens": "^2.4.0",
     "react-native-star-rating": "^1.1.0",
     "react-native-tabs": "^1.0.9",
     "react-redux": "5.1.1",
