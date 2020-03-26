@@ -26,6 +26,7 @@
     "react-native-circle-checkbox": "^0.1.6",
     "react-native-collapsible": "^1.4.0",
     "react-native-country-picker-modal": "^0.7.1",
+    "react-native-gesture-handler": "^1.6.1",
     "react-native-hide-show-password-input": "^1.0.7",
     "react-native-material-tabs": "^3.8.1",
     "react-native-material-textfield": "^0.12.0",
