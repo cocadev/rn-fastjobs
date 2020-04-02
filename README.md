@@ -68,7 +68,6 @@ Cool, you're done! Good luck!
 
 The FastJobs team would like to thank you very much for your support and we deeply appreciate your feedback since we launched. Your feedback has contributed to our updates and improvements, and we will continue to improve FastJobs. Please continue to support us and keep a lookout for the improvements.
 
-Please email us customercare@fastjobs.com.my/ customercare@fastjobs.ph if you require any assistance.
 
 
 ## :dizzy: **Roadmap**
