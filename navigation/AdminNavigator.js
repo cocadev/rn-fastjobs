@@ -3,7 +3,7 @@
 /* eslint-disable no-unused-labels */
 /* eslint-disable react/prop-types */
 import * as React from 'react'
-import { createBottomTabNavigator } from 'react-navigation'
+import { createBottomTabNavigator } from 'react-navigation-tabs'
 import { createStackNavigator } from 'react-navigation-stack';
 import { View } from 'react-native';
 import HomeScreen from '../screens/HomeScreen';

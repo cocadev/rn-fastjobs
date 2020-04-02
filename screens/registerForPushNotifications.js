@@ -7,7 +7,8 @@ import {
   KeyboardAvoidingView,
   View,
 } from 'react-native';
-import { Permissions, Notifications } from 'expo';
+import { Notifications } from 'expo';
+import * as Permissions from 'expo-permissions';
 
 export default class RegisterForPushNotifications extends React.Component {
   constructor(props) {

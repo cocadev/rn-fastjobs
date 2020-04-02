@@ -9,7 +9,11 @@ import { i } from '../constants/Style';
 import { Actions } from 'react-native-router-flux';
 import { MaterialCommunityIcons, FontAwesome } from "@expo/vector-icons";
 import { withNamespaces } from "react-i18next";
-import { ImagePicker, Permissions, ImageManipulator } from 'expo'
+
+import * as ImagePicker from 'expo-image-picker';
+import * as ImageManipulator from 'expo-image-manipulator';
+import * as Permissions from 'expo-permissions';
+
 import api from '../api'
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
