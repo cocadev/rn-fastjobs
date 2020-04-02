@@ -54,17 +54,22 @@
 
 ## :blush: **Overview?**
 
-FastJobs - THE APP FOR CARRIERS
+Looking for a job in Asia? Simplify your job search and find work in Asia at your fingertips. Act fast and browse thousands of classifieds jobs, part-time jobs, temporary jobs, contract jobs, freelance work, and holiday jobs on FastJobs. You can be a student looking for part-time work, a mum looking to work from home or just looking for a change in career, FastJobs has plenty of job opportunities available. With constantly updated job vacancies, getting employment in Asia can be simple and direct.
 
-Use our advanced filters to sort through a multitude of loads placed by shippers and freight brokers alike.
+Customise your profile and apply for your preferred job - in just 3 simple steps:
 
-Negotiate.! Using our platform you can counter and accept offers from shippers. You only settle on a price after both parties have ‘accepted’ it, in other words, the load is assigned after the ‘dual handshake’ is complete.
+1. Register for a free account with your basic particulars and skillsets - ditch the hassle of uploading a detailed resume on job websites.
 
+2. Search for jobs you have in mind, and filter your preferences by salary, locations, job functions (such as admin jobs, logistics work or accounting jobs), job industries (such as banking, retail or hotel) and job type (Full Time, Part Time etc) - with just a few swipes.
 
-What is LoadEmUp.?
-LoadEmUp is an app which connects shippers to carriers. A shipper places his load on the load board, after which a carrier can view the details of the load. The carrier can then decide whether to accept the offer or counter it with an offer of his own. The shipper and the carrier negotiate until a price has been agreed upon by both parties and the ‘dual handshake’ is complete.
+3. Call, SMS or email to apply for the job directly to the employer with 1-tap, or save it for later. 
 
-After this the Load is placed in the ‘My Jobs’ page of the carrier app, and the carrier can start the load. The carrier can upload a picture of the load during pick up. Once the carrier starts the load, he can either use google maps or waze for navigation. Once a load is complete, the receiver has to sign on the app, and the carrier can upload a picture of the load on the app. After this an invoice appears and the carrier can submit, after completion of the load.
+Cool, you're done! Good luck!
+
+The FastJobs team would like to thank you very much for your support and we deeply appreciate your feedback since we launched. Your feedback has contributed to our updates and improvements, and we will continue to improve FastJobs. Please continue to support us and keep a lookout for the improvements.
+
+Please email us customercare@fastjobs.com.my/ customercare@fastjobs.ph if you require any assistance.
+
 
 ## :dizzy: **Roadmap**
 
