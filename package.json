@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@expo/samples": "2.1.1",
+    "@react-native-community/masked-view": "0.1.5",
     "axios": "^0.18.0",
     "expo": "^36.0.0",
     "firebase": "^5.9.2",
@@ -34,6 +35,7 @@
     "react-native-qrcode-svg": "^5.1.2",
     "react-native-reanimated": "^1.7.1",
     "react-native-router-flux": "^4.0.6",
+    "react-native-safe-area-context": "0.6.0",
     "react-native-screens": "^2.4.0",
     "react-native-star-rating": "^1.1.0",
     "react-native-svg": "^12.0.3",

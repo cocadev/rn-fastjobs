@@ -1,6 +1,6 @@
 {
   "urlRandomness": "69-zdb",
-  "hostType": "lan",
+  "hostType": "localhost",
   "lanType": "ip",
   "dev": true,
   "minify": false,
