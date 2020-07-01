@@ -28,27 +28,27 @@
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/1.webp" alt="1">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/1.webp" alt="1">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/2.webp" alt="2">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/2.webp" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/3.webp" alt="3">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/3.webp" alt="3">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/1.png" alt="4">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/1.png" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/2.png" alt="5">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/2.png" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="assets/splash.png" alt="6">
+    <img width="240" style="border-radius: 5px" height="450" src="assets/splash.png" alt="6">
   </kbd>
 </p>
 
